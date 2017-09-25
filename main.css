@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+@import url('https://fonts.googleapis.com/css?family=Joti+One');
+body {
+    background: url(back.jpg) fixed top center;
+    color: #fff;
+    font-family: 'Roboto Slab', serif;
+}
+
+h1 {
+    font-family: 'Joti One', cursive;
+    font-size: 50px;
+}
+
+.mira {
+    margin-top: 200px;
+}
+
+.sortear {
+    margin-bottom: 50px;
+    font-size: 16px;
+}
+
+.sortear i {
+    margin-left: 15px;
+}
